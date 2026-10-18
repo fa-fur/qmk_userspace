@@ -440,6 +440,14 @@
                 "HLC_NONE": "1",
                 "TARGET": "splitkb_aurora_helix_rev1_vial_hlc"
             }
+        ],
+        [
+            "splitkb/halcyon/elora/rev2",
+            "default_hlc",
+            {
+                "HLC_CIRQUE_TRACKPAD": "1",
+                "TARGET": "halcyon_elora_default"
+            }
         ]
     ]
 }
